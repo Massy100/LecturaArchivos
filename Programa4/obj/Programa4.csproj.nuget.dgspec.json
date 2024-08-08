@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\programa4\\Programa4.csproj": {}
+    "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\Programa4\\Programa4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\programa4\\Programa4.csproj": {
+    "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\Programa4\\Programa4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\programa4\\Programa4.csproj",
+        "projectUniqueName": "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\Programa4\\Programa4.csproj",
         "projectName": "Programa4",
-        "projectPath": "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\programa4\\Programa4.csproj",
+        "projectPath": "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\Programa4\\Programa4.csproj",
         "packagesPath": "C:\\Users\\Massielle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\programa4\\obj\\",
+        "outputPath": "C:\\Users\\Massielle\\Documents\\UNIVERSIDAD\\Manejo Archivos\\Programa4\\Programa4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Massielle\\AppData\\Roaming\\NuGet\\NuGet.Config"
